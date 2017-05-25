@@ -10,7 +10,7 @@ url: "https://shravankumar147.github.io"
 baseurl: "/project-pages"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: \project-pages\img\logos\sherman.jpg
 
 # Tertiary Parameters
 github_username:  shravankumar147
