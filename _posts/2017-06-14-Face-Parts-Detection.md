@@ -24,14 +24,14 @@ python detect_face_parts.py --shape-predictor shape_predictor_68_face_landmarks.
 ```
 ## Results
 
-![Alt](img/results/face0_mouth.png)
-![Alt](img/results/face5_nose.png)
-![Alt](img/results/face0_mouth.png)
-![Alt](img/results/face6_jaw.png)
-![Alt](img/results/face1_right_eyebrow.png)
-![Alt](img/results/face2_left_eyebrow.png)
-![Alt](img/results/face3_right_eye.png)
-![Alt](img/results/face4_left_eye.png)
+![Alt](../img/results/face0_mouth.png)
+![Alt](../img/results/face5_nose.png)
+![Alt](../img/results/face0_mouth.png)
+![Alt](../img/results/face6_jaw.png)
+![Alt](../img/results/face1_right_eyebrow.png)
+![Alt](../img/results/face2_left_eyebrow.png)
+![Alt](../img/results/face3_right_eye.png)
+![Alt](../img/results/face4_left_eye.png)
 
 
 #### Credits: My Guru- Adrian Rosebrock
