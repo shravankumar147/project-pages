@@ -7,15 +7,15 @@ url: "https://shravankumar147.github.io"
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: ""
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: \project-pages\img\logos\sherman.jpg
+logo: \img\logos\sherman.jpg
 
 # Tertiary Parameters
 github_username:  shravankumar147
-project_repository: project-pages
-disqus_shortname: project-pages
+project_repository: 
+disqus_shortname: 
 g-analytics: UA-75881392-1
 altmetric: true
 
