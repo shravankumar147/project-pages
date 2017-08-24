@@ -3,10 +3,12 @@ layout:     post
 title:      New Post
 author:     Ahmet Cecen
 tags: 		post template
-subtitle:  	Some Short Description of Post
+subtitle:  	Some Short Description of Post, Some Short Description of Post
 category:  project1
 ---
 <!-- Start Writing Below in Markdown -->
+
+![test image](/img/Avatar.png)
 
 # Table of Contents
 
