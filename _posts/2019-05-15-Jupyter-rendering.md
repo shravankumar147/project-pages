@@ -7,5 +7,5 @@ subtitle:   Showcasing Jupyter Notebook rendering on jekyll
 category:  
 
 notebookfilename: viz_tf_graphs
-visualworkflow: true
+visualworkflow: false
 ---
